@@ -1,0 +1,9 @@
+C:\Users\Police\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.GSMToXLSX.resources
+C:\Users\Police\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\GSMToXLSX.csproj.GenerateResource.Cache
+C:\Users\Police\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\GSMToXLSX.exe.config
+C:\Users\Police\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\GSMToXLSX.exe
+C:\Users\Police\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\GSMToXLSX.pdb
+C:\Users\Police\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\GSMToXLSX.Properties.Resources.resources
+C:\Users\Police\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\GSMToXLSX.exe
+C:\Users\Police\documents\visual studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\GSMToXLSX.pdb
+C:\Users\Police\Documents\Visual Studio 2017\Projects\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\GSMToXLSX.csprojAssemblyReference.cache
